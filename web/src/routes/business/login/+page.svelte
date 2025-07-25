@@ -15,7 +15,7 @@
 
 <section class="font-raleway grid min-h-[100dvh] lg:grid-cols-2">
 	<div class="grid place-content-center bg-blue-500 p-4 text-center text-white">
-		<h1 class="font-ptsans mb-6 text-5xl font-bold text-white">InnKeeper Business🏠</h1>
+		<h1 class="font-ptsans mb-6 text-5xl font-bold text-white">InnKeeper🏠</h1>
 		<p class="rotate-6 transform rounded bg-slate-600 p-2 shadow md:text-lg">
 			One stop place to get your ...
 		</p>
@@ -51,7 +51,9 @@
 				<!-- <button type="button" class="btn-outline w-full">Login with Google</button> -->
 				<p class="mt-4 text-center text-sm">
 					Don't have an account?
-					<a href="/business/signup" class="underline-offset-4 hover:underline">Sign up</a>
+					<a href="/business/signup" class="text-gray-700 underline-offset-4 hover:underline"
+						>Sign up</a
+					>
 				</p>
 			</footer>
 		</form>
